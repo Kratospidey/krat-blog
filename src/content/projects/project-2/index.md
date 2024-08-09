@@ -1,15 +1,16 @@
 ---
-title: "Project Two"
-summary: "Lorem ipsum dolor sit amet"
-date: "Mar 17 2022"
+title: "Duck | A Discord Bot"
+summary: "A fun discord bot"
+date: "Aug 07 2024"
 draft: false
 tags:
-- Svelte
-- Sveltekit
-- Typescript
-- Tailwind
+- Python
+- Backend
+- Pycord
+repoUrl: https://github.com/Kratospidey/DUCK
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+The goal of this bot was to be used with your friends. This project was a side project and also the final project which I submitted for CS50P. By no means is this project bug free or an industry standard, it's purely a passion project I made cause it seemed cool.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+Also, one last thing, I made this discord bot usable to others purely by using the code on the own rather than just inviting the bot so it's aimed for intermediate-ish programmers who know how to set up a bot and stuff and it's designed to be used just by a small group of friends so just inviting the same bot won't work hence you'll need to take my source code and add it to your own bot
+

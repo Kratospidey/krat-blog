@@ -1,16 +1,14 @@
 ---
-title: "Project One"
-summary: "Lorem ipsum dolor sit amet"
-date: "Mar 18 2022"
+title: "Ion | A chatting app"
+summary: "A chatting app inspired from discord"
+date: "Aug 07 2024"
 draft: false
 tags:
-- Astro
+- EJS
 - Javascript
-- Typescript
-- Tailwind
-- SolidJs
-demoUrl: https://astro-sphere-demo.vercel.app
-repoUrl: https://github.com/markhorn-dev/astro-sphere
+repoUrl: https://github.com/Kratospidey/ion
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+Ion is a real-time messaging application that allows users to communicate with each other through text messages. It provides a user-friendly interface for sending and receiving messages, as well as features such as server-wide file uploading.
+
+I created this website for my technical project in 3rd Year of my course, right now it's offline as I can't afford to keep it up 💀

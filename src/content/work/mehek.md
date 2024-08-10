@@ -1,8 +1,8 @@
 ---
 company: "Mehek Foundation"
-role: "Software Engineer"
-dateStart: "20/05/24"
-dateEnd: "07/06/24"
+role: "Volunteer"
+dateStart: "05/20/24"
+dateEnd: "06/07/24"
 ---
 
 Worked as a Volunteer at an NGO

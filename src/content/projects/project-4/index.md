@@ -8,6 +8,7 @@ tags:
 - Backend
 - API   
 repoUrl: https://github.com/Kratospidey/youtube_history_analyzer
+collectionType: "projects"
 ---
 
 A python script which uses data provided by google to analyze your data

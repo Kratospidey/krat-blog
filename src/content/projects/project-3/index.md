@@ -9,6 +9,7 @@ tags:
 - CSS
 repoUrl: https://github.com/Kratospidey/ion
 demoUrl: https://terminal.kratospidey.com
+collectionType: "projects"
 ---
 
 A terminal portolio website I made using pure Vanilla HTML, Javascript, CSS

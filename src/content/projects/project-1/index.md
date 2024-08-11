@@ -7,6 +7,7 @@ tags:
 - EJS
 - Javascript
 repoUrl: https://github.com/Kratospidey/ion
+collectionType: "projects"
 ---
 
 Ion is a real-time messaging application that allows users to communicate with each other through text messages. It provides a user-friendly interface for sending and receiving messages, as well as features such as server-wide file uploading.
